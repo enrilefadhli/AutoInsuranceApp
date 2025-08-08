@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "AutoInsuranceDbConnection": "Host=localhost;Port=5432;Database=auto_insurance_db;Username=postgres;Password=your_password"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
